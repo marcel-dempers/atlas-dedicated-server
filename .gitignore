@@ -1,0 +1,10 @@
+
+server/*
+
+!server/placeholder.txt
+
+tools/ServerGridEditor-master/*
+!tools/ServerGridEditor-master/placeholder.txt
+
+tools/steamcmd/*
+!tools/steamcmd/steamcmd.exe

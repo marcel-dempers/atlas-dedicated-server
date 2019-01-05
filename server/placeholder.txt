@@ -1,0 +1,2 @@
+This is where server files will go. Do not delete this file
+It makes sure the folder is checked into GIT. Files in this folder is excluded
