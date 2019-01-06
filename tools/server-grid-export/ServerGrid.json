@@ -1,0 +1,1142 @@
+{
+  "BaseServerArgs": "",
+  "gridSize": 1400000.0,
+  "MetaWorldURL": "",
+  "WorldFriendlyName": "Dragon Isles 7",
+  "WorldAtlasId": "984604509",
+  "AuthListURL": "",
+  "WorldAtlasPassword": "2100",
+  "ModIDs": "",
+  "MapImageURL": "",
+  "totalGridsX": 1,
+  "totalGridsY": 1,
+  "bUseUTCTime": true,
+  "columnUTCOffset": 0.0,
+  "Day0": "2018-12-24 10:38:37",
+  "globalTransitionMinZ": 0.0,
+  "AdditionalCmdLineParams": "",
+  "OverrideShooterGameModeDefaultGameIni": {},
+  "globalGameplaySetup": "",
+  "coordsScaling": 0.0005852765,
+  "showServerInfo": false,
+  "showDiscoZoneInfo": true,
+  "showShipPathsInfo": true,
+  "showIslandNames": true,
+  "discoZonesImagePath": "Resources/discoZoneBox.png",
+  "servers": [
+    {
+      "gridX": 0,
+      "gridY": 0,
+      "MachineIdTag": "",
+      "ip": "203.219.181.247",
+      "name": "HomeServer Freeport",
+      "port": 57555,
+      "gamePort": 5755,
+      "seamlessDataPort": 27000,
+      "isHomeServer": true,
+      "AdditionalCmdLineParams": "",
+      "OverrideShooterGameModeDefaultGameIni": {
+        "NoClaimFlagDecayPeriodMultiplier": "4",
+        "PlayerDefaultNoDiscoveriesMaxLevelUps": "8",
+        "bClampHomeServerXP": "0",
+        "ClampHomeServerXPLevel": "50"
+      },
+      "floorZDist": 0,
+      "utcOffset": 0,
+      "transitionMinZ": 0,
+      "GlobalBiomeSeamlessServerGridPreOffsetValues": "",
+      "GlobalBiomeSeamlessServerGridPreOffsetValuesOceanWater": "",
+      "OceanDinoDepthEntriesOverride": "",
+      "oceanFloatsamCratesOverride": "",
+      "treasureMapLootTablesOverride": "",
+      "oceanEpicSpawnEntriesOverrideTemplateName": "",
+      "NPCShipSpawnEntriesOverrideTemplateName": "",
+      "regionOverrides": "",
+      "waterColorR": 0.0,
+      "waterColorG": 0.0,
+      "waterColorB": 0.0,
+      "skyStyleIndex": 0,
+      "sublevels": [
+        {
+          "name": "Cay_H",
+          "additionalTranslationX": -421499.1,
+          "additionalTranslationY": -435737.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 45.2407379,
+          "additionalRotationRoll": 0.0,
+          "id": 31,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_H_Far_04_E",
+          "additionalTranslationX": -421499.1,
+          "additionalTranslationY": -435737.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 45.2407379,
+          "additionalRotationRoll": 0.0,
+          "id": 31,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_H_Farthest_04_E",
+          "additionalTranslationX": -421499.1,
+          "additionalTranslationY": -435737.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 45.2407379,
+          "additionalRotationRoll": 0.0,
+          "id": 31,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_H_Near_04_E",
+          "additionalTranslationX": -421499.1,
+          "additionalTranslationY": -435737.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 45.2407379,
+          "additionalRotationRoll": 0.0,
+          "id": 31,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_H_Marine_Warm_Near",
+          "additionalTranslationX": -421499.1,
+          "additionalTranslationY": -435737.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 45.2407379,
+          "additionalRotationRoll": 0.0,
+          "id": 31,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_A_Far_06_E",
+          "additionalTranslationX": 448945.625,
+          "additionalTranslationY": -464214.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 32,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_A_Farthest_06_E",
+          "additionalTranslationX": 448945.625,
+          "additionalTranslationY": -464214.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 32,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_A_Near_06_E",
+          "additionalTranslationX": 448945.625,
+          "additionalTranslationY": -464214.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 32,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_A_TU",
+          "additionalTranslationX": 448945.625,
+          "additionalTranslationY": -464214.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 32,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_A_Marine_Cold_Near",
+          "additionalTranslationX": 448945.625,
+          "additionalTranslationY": -464214.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 32,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_O_Far_10",
+          "additionalTranslationX": 500055.5,
+          "additionalTranslationY": 514549.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 33,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_O_Farthest_10",
+          "additionalTranslationX": 500055.5,
+          "additionalTranslationY": 514549.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 33,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_O_Near_10",
+          "additionalTranslationX": 500055.5,
+          "additionalTranslationY": 514549.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 33,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_O_LD",
+          "additionalTranslationX": 500055.5,
+          "additionalTranslationY": 514549.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 33,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_O_Marine_Warm_Near",
+          "additionalTranslationX": 500055.5,
+          "additionalTranslationY": 514549.375,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 33,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_F_Far_03_E",
+          "additionalTranslationX": -535975.0,
+          "additionalTranslationY": 526603.1,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 34,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_F_Farthest_03_E",
+          "additionalTranslationX": -535975.0,
+          "additionalTranslationY": 526603.1,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 34,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_F_Near_03_E",
+          "additionalTranslationX": -535975.0,
+          "additionalTranslationY": 526603.1,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 34,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_F_Marine_Cold_Near",
+          "additionalTranslationX": -535975.0,
+          "additionalTranslationY": 526603.1,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 34,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_F_HI",
+          "additionalTranslationX": -535975.0,
+          "additionalTranslationY": 526603.1,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 34,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_B_Far_10",
+          "additionalTranslationX": -495538.25,
+          "additionalTranslationY": 48364.25,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 64.86308,
+          "additionalRotationRoll": 0.0,
+          "id": 36,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_B_Farthest_10",
+          "additionalTranslationX": -495538.25,
+          "additionalTranslationY": 48364.25,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 64.86308,
+          "additionalRotationRoll": 0.0,
+          "id": 36,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_B_LD",
+          "additionalTranslationX": -495538.25,
+          "additionalTranslationY": 48364.25,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 64.86308,
+          "additionalRotationRoll": 0.0,
+          "id": 36,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_B_Near_10",
+          "additionalTranslationX": -495538.25,
+          "additionalTranslationY": 48364.25,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 64.86308,
+          "additionalRotationRoll": 0.0,
+          "id": 36,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_B_Marine_Warm_Near",
+          "additionalTranslationX": -495538.25,
+          "additionalTranslationY": 48364.25,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 64.86308,
+          "additionalRotationRoll": 0.0,
+          "id": 36,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "islet_A_Far_01",
+          "additionalTranslationX": -170335.688,
+          "additionalTranslationY": -368532.625,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -102.695854,
+          "additionalRotationRoll": 0.0,
+          "id": 37,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Islet_A_Farthest_01",
+          "additionalTranslationX": -170335.688,
+          "additionalTranslationY": -368532.625,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -102.695854,
+          "additionalRotationRoll": 0.0,
+          "id": 37,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "islet_A_Near_01",
+          "additionalTranslationX": -170335.688,
+          "additionalTranslationY": -368532.625,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -102.695854,
+          "additionalRotationRoll": 0.0,
+          "id": 37,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Islet_A_TR",
+          "additionalTranslationX": -170335.688,
+          "additionalTranslationY": -368532.625,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -102.695854,
+          "additionalRotationRoll": 0.0,
+          "id": 37,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Islet_A_Marine_Warm_Near",
+          "additionalTranslationX": -170335.688,
+          "additionalTranslationY": -368532.625,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -102.695854,
+          "additionalRotationRoll": 0.0,
+          "id": 37,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Ice_B_Farthest_08",
+          "additionalTranslationX": 142906.5,
+          "additionalTranslationY": -452823.3,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 38,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_O",
+          "additionalTranslationX": -17701.3125,
+          "additionalTranslationY": 495244.5,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 220.884491,
+          "additionalRotationRoll": 0.0,
+          "id": 39,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_O_Far_07",
+          "additionalTranslationX": -17701.3125,
+          "additionalTranslationY": 495244.5,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 220.884491,
+          "additionalRotationRoll": 0.0,
+          "id": 39,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_O_Farthest_07",
+          "additionalTranslationX": -17701.3125,
+          "additionalTranslationY": 495244.5,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 220.884491,
+          "additionalRotationRoll": 0.0,
+          "id": 39,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_O_Near_07",
+          "additionalTranslationX": -17701.3125,
+          "additionalTranslationY": 495244.5,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 220.884491,
+          "additionalRotationRoll": 0.0,
+          "id": 39,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_O_Marine_Warm_Near",
+          "additionalTranslationX": -17701.3125,
+          "additionalTranslationY": 495244.5,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 220.884491,
+          "additionalRotationRoll": 0.0,
+          "id": 39,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_A",
+          "additionalTranslationX": 65450.25,
+          "additionalTranslationY": -106548.188,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 41,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_A_Far_04",
+          "additionalTranslationX": 65450.25,
+          "additionalTranslationY": -106548.188,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 41,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_A_Farthest_04",
+          "additionalTranslationX": 65450.25,
+          "additionalTranslationY": -106548.188,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 41,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_A_Near_04",
+          "additionalTranslationX": 65450.25,
+          "additionalTranslationY": -106548.188,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 41,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Cay_A_Marine_Warm_Near",
+          "additionalTranslationX": 65450.25,
+          "additionalTranslationY": -106548.188,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 41,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Ice_A_Farthest_08",
+          "additionalTranslationX": 194164.313,
+          "additionalTranslationY": 263647.125,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 43,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Ice_D_Farthest_08",
+          "additionalTranslationX": 461844.0,
+          "additionalTranslationY": -176031.125,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 44,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Ice_C_Farthest_08",
+          "additionalTranslationX": -193117.063,
+          "additionalTranslationY": 227197.125,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 45,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "islet_A_Far_01_B",
+          "additionalTranslationX": -237540.5,
+          "additionalTranslationY": -145276.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 46,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Islet_A_Farthest_01_B",
+          "additionalTranslationX": -237540.5,
+          "additionalTranslationY": -145276.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 46,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "islet_A_Near_01_B",
+          "additionalTranslationX": -237540.5,
+          "additionalTranslationY": -145276.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 46,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Islet_A_TR",
+          "additionalTranslationX": -237540.5,
+          "additionalTranslationY": -145276.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 46,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Islet_A_Marine_Warm_Near",
+          "additionalTranslationX": -237540.5,
+          "additionalTranslationY": -145276.438,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": 0.0,
+          "additionalRotationRoll": 0.0,
+          "id": 46,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_T_Far_08",
+          "additionalTranslationX": 527230.1,
+          "additionalTranslationY": 125820.563,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -84.3739243,
+          "additionalRotationRoll": 0.0,
+          "id": 48,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_T_Farthest_08",
+          "additionalTranslationX": 527230.1,
+          "additionalTranslationY": 125820.563,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -84.3739243,
+          "additionalRotationRoll": 0.0,
+          "id": 48,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_T_Near_08",
+          "additionalTranslationX": 527230.1,
+          "additionalTranslationY": 125820.563,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -84.3739243,
+          "additionalRotationRoll": 0.0,
+          "id": 48,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_T_PO",
+          "additionalTranslationX": 527230.1,
+          "additionalTranslationY": 125820.563,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -84.3739243,
+          "additionalRotationRoll": 0.0,
+          "id": 48,
+          "landscapeMaterialOverride": -1
+        },
+        {
+          "name": "Mnt_T_Marine_Cold_Near",
+          "additionalTranslationX": 527230.1,
+          "additionalTranslationY": 125820.563,
+          "additionalTranslationZ": 0.0,
+          "additionalRotationPitch": 0.0,
+          "additionalRotationYaw": -84.3739243,
+          "additionalRotationRoll": 0.0,
+          "id": 48,
+          "landscapeMaterialOverride": -1
+        }
+      ],
+      "lastModified": "2019-01-04T21:35:19.5754346Z",
+      "lastImageOverride": "0001-01-01T00:00:00",
+      "islandLocked": true,
+      "discoLocked": false,
+      "pathsLocked": true,
+      "extraSublevels": [],
+      "totalExtraSublevels": [
+        "MasterIBL_Tropical",
+        "MasterIBL_Tropical_Canopy_Oak",
+        "MasterIBL_Tropical_Canopy_RE",
+        "MasterIBL_WesternTundra",
+        "MasterIBL_WesternTundra_Canopy_Evergreen",
+        "MasterIBL_WesternTundra_Canopy_Tamarack",
+        "MasterIBL_LowDesert",
+        "MasterIBL_LowDesert_Canopy_DatePalm",
+        "MasterIBL_EasternTemperate",
+        "MasterIBL_EasternTemperate_Canopy_RedMaple",
+        "MasterIBL_Temperate",
+        "MasterIBL_Temperate_Canopy",
+        "MasterIBL_Temperate_Canopy_B",
+        "MasterIBL_Equator_Canopy",
+        "ChildIBL_Polar_IceCavern.uasset",
+        "ChildIBL_Polar_Box.uasset",
+        "ChildIBL_Polar.uasset"
+      ],
+      "islandInstances": [
+        {
+          "name": "Cay_H_WR_E",
+          "id": 31,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "spawnPointRegionOverride": 0,
+          "finalNPCLevelMultiplier": 0.0,
+          "worldX": 278500.9,
+          "worldY": 264262.625,
+          "rotation": 45.2407379
+        },
+        {
+          "name": "Mnt_A_WU_E",
+          "id": 32,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "spawnPointRegionOverride": 1,
+          "worldX": 1148945.63,
+          "worldY": 235785.563,
+          "rotation": 0.0
+        },
+        {
+          "name": "Mnt_O_CL",
+          "id": 33,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "spawnPointRegionOverride": 3,
+          "worldX": 1200055.5,
+          "worldY": 1214549.38,
+          "rotation": 0.0
+        },
+        {
+          "name": "Mnt_F_ET_E",
+          "id": 34,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "spawnPointRegionOverride": 2,
+          "worldX": 164025.0,
+          "worldY": 1226603.13,
+          "rotation": 0.0
+        },
+        {
+          "name": "Mnt_B_CL",
+          "id": 36,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 204461.75,
+          "worldY": 748364.25,
+          "rotation": 64.86308
+        },
+        {
+          "name": "Islet_A_ER",
+          "id": 37,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 529664.3,
+          "worldY": 331467.375,
+          "rotation": -102.695854
+        },
+        {
+          "name": "Ice_B_PO",
+          "id": 38,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 842906.5,
+          "worldY": 247176.688,
+          "rotation": 0.0
+        },
+        {
+          "name": "Cay_O_EE",
+          "id": 39,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 682298.7,
+          "worldY": 1195244.5,
+          "rotation": 220.884491
+        },
+        {
+          "name": "Cay_A_WR",
+          "id": 41,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 765450.25,
+          "worldY": 593451.8,
+          "rotation": 0.0
+        },
+        {
+          "name": "Ice_A_PO",
+          "id": 43,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 894164.3,
+          "worldY": 963647.1,
+          "rotation": 0.0
+        },
+        {
+          "name": "Ice_D_PO",
+          "id": 44,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 1161844.0,
+          "worldY": 523968.875,
+          "rotation": 0.0
+        },
+        {
+          "name": "Ice_C_PO",
+          "id": 45,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 506882.938,
+          "worldY": 927197.1,
+          "rotation": 0.0
+        },
+        {
+          "name": "Islet_A_ER_B",
+          "id": 46,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 462459.5,
+          "worldY": 554723.563,
+          "rotation": 0.0
+        },
+        {
+          "name": "Mnt_T_CP",
+          "id": 48,
+          "spawnerOverrides": {},
+          "minTreasureQuality": -1.0,
+          "maxTreasureQuality": -1.0,
+          "useNpcVolumesForTreasures": false,
+          "useLevelBoundsForTreasures": true,
+          "prioritizeVolumesForTreasures": false,
+          "islandTreasureBottleSupplyCrateOverrides": "",
+          "worldX": 1227230.13,
+          "worldY": 825820.563,
+          "rotation": -84.3739243
+        }
+      ],
+      "discoZones": [
+        {
+          "name": "Mountaineering",
+          "sizeX": 273375.1,
+          "sizeY": 303560.3,
+          "sizeZ": 40000.0,
+          "id": 49,
+          "xp": 2.0,
+          "bIsManuallyPlaced": false,
+          "explorerNoteIndex": 1,
+          "allowSea": false,
+          "worldX": 203892.188,
+          "worldY": 750357.6,
+          "rotation": -26.57813
+        },
+        {
+          "name": "Coral Reefs",
+          "sizeX": 137826.6,
+          "sizeY": 148078.2,
+          "sizeZ": 40000.0,
+          "id": 50,
+          "xp": 1.0,
+          "bIsManuallyPlaced": false,
+          "explorerNoteIndex": 2,
+          "allowSea": true,
+          "worldX": 467585.3,
+          "worldY": 558140.8,
+          "rotation": -25.0219
+        },
+        {
+          "name": "OMGYOUFOUNDME",
+          "sizeX": 6500.0,
+          "sizeY": 7400.0,
+          "sizeZ": 40000.0,
+          "id": 51,
+          "xp": 4.0,
+          "bIsManuallyPlaced": false,
+          "explorerNoteIndex": 3,
+          "allowSea": false,
+          "worldX": 286950.1,
+          "worldY": 139800.0,
+          "rotation": 0.0
+        }
+      ],
+      "spawnRegions": [
+        {
+          "name": "NW Freeport"
+        },
+        {
+          "name": "NE Freeport"
+        },
+        {
+          "name": "SW Freeport"
+        },
+        {
+          "name": "SE Freeport"
+        }
+      ]
+    }
+  ],
+  "spawnerOverrideTemplates": [
+    {
+      "Name": "SpawnerTemplate1",
+      "NPCSpawnEntries": "((AnEntryName=\"Stego One to Three\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000),(X=0.000000,Y=680.000000,Z=0.000000),(X=0.000000,Y=-680.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000,0.380000,0.150000),LevelDifficultyTestOverride=1.000000),(AnEntryName=\"Trike One to Three\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000),(X=0.000000,Y=680.000000,Z=0.000000),(X=0.000000,Y=-680.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000,0.500000,0.150000),LevelDifficultyTestOverride=1.000000))",
+      "NPCSpawnLimits": "((NPCClass=BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C',MaxPercentageOfDesiredNumToAllow=1))",
+      "MaxDesiredNumEnemiesMultiplier": 1.0
+    },
+    {
+      "Name": "SpawnerTemplate2",
+      "NPCSpawnEntries": "((AnEntryName=\"Stego One to Three\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000),(X=0.000000,Y=680.000000,Z=0.000000),(X=0.000000,Y=-680.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000,0.380000,0.150000),LevelDifficultyTestOverride=2.000000),(AnEntryName=\"Trike One to Three\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C',BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000),(X=0.000000,Y=680.000000,Z=0.000000),(X=0.000000,Y=-680.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000,0.500000,0.150000),LevelDifficultyTestOverride=2.000000))",
+      "NPCSpawnLimits": "((NPCClass=BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C',MaxPercentageOfDesiredNumToAllow=2))",
+      "MaxDesiredNumEnemiesMultiplier": 2.0
+    },
+    {
+      "Name": "FailureTest",
+      "NPCSpawnEntries": "",
+      "NPCSpawnLimits": "",
+      "MaxDesiredNumEnemiesMultiplier": -1.0
+    },
+    {
+      "Name": "SpawnerTrike",
+      "NPCSpawnEntries": "((AnEntryName=\"Carnos\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000)))",
+      "NPCSpawnLimits": "",
+      "MaxDesiredNumEnemiesMultiplier": 1.0
+    },
+    {
+      "Name": "SpawnerPtero",
+      "NPCSpawnEntries": "((AnEntryName=\"Ptero\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C'),NPCsSpawnOffsets=((X=300.000000,Y=0.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000),EntryWeight=0.150000))(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C'),NPCsSpawnOffsets=((X=300.000000,Y=0.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000),EntryWeight=0.150000))",
+      "NPCSpawnLimits": "",
+      "MaxDesiredNumEnemiesMultiplier": 1.5
+    },
+    {
+      "Name": "SpawnerAlloOrSarco",
+      "NPCSpawnEntries": "((AnEntryName=\"Sarco\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000)),(AnEntryName=\"Allo\",NPCsToSpawn=(BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C'),NPCsSpawnOffsets=((X=0.000000,Y=0.000000,Z=0.000000)),NPCsToSpawnPercentageChance=(1.000000),EntryWeight=0.200000))",
+      "NPCSpawnLimits": "((NPCClass=BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C',MaxPercentageOfDesiredNumToAllow=0.800000),(NPCClass=BlueprintGeneratedClass'/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C',MaxPercentageOfDesiredNumToAllow=0.200000))",
+      "MaxDesiredNumEnemiesMultiplier": 1.2
+    }
+  ],
+  "idGenerator": 51,
+  "regionsIdGenerator": 0,
+  "shipPathsIdGenerator": 7,
+  "shipPaths": [
+    {
+      "Nodes": [
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 528629.938,
+          "worldY": 477784.469,
+          "rotation": -126.801933
+        },
+        {
+          "controlPointsDistance": 0.0,
+          "worldX": 694311.2,
+          "worldY": 263382.125,
+          "rotation": 0.0
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 798483.063,
+          "worldY": 120740.688,
+          "rotation": 0.0
+        },
+        {
+          "controlPointsDistance": 97778.69,
+          "worldX": 1135541.0,
+          "worldY": 450446.969,
+          "rotation": 145.098419
+        },
+        {
+          "controlPointsDistance": 0.0,
+          "worldX": 705649.5,
+          "worldY": 432221.969,
+          "rotation": 0.0
+        }
+      ],
+      "PathId": 2,
+      "isLooping": false,
+      "PathName": "NPCTrader9",
+      "AutoSpawnShipClass": "",
+      "AutoSpawnEveryUTCInterval": 900,
+      "autoSpawn": true
+    },
+    {
+      "Nodes": [
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 402193.938,
+          "worldY": 892403.4,
+          "rotation": -75.823616
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 393598.625,
+          "worldY": 611365.9,
+          "rotation": -1.005086
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 771145.5,
+          "worldY": 779119.0,
+          "rotation": 14.9586353
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 1073255.38,
+          "worldY": 628607.4,
+          "rotation": -300.197357
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 1030100.63,
+          "worldY": 842103.938,
+          "rotation": 77.53163
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 1098574.0,
+          "worldY": 1086355.13,
+          "rotation": -245.6182
+        },
+        {
+          "controlPointsDistance": 100793.781,
+          "worldX": 753954.9,
+          "worldY": 1079209.88,
+          "rotation": -139.8164
+        }
+      ],
+      "PathId": 4,
+      "isLooping": false,
+      "PathName": "NPCTrader2",
+      "AutoSpawnShipClass": "",
+      "AutoSpawnEveryUTCInterval": 1200,
+      "autoSpawn": true
+    },
+    {
+      "Nodes": [
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 45667.2266,
+          "worldY": 294395.438,
+          "rotation": -100.51387
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 291600.031,
+          "worldY": 53535.9844,
+          "rotation": 0.0
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 493109.438,
+          "worldY": 185045.438,
+          "rotation": -284.237274
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 331467.25,
+          "worldY": 458420.438,
+          "rotation": -206.565048
+        }
+      ],
+      "PathId": 6,
+      "isLooping": false,
+      "PathName": "NPCTrader1",
+      "AutoSpawnShipClass": "",
+      "AutoSpawnEveryUTCInterval": 600,
+      "autoSpawn": true
+    },
+    {
+      "Nodes": [
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 39971.9375,
+          "worldY": 1213618.88,
+          "rotation": -79.69515
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 268818.8,
+          "worldY": 1047937.06,
+          "rotation": 25.6773567
+        },
+        {
+          "controlPointsDistance": 70000.0,
+          "worldX": 305164.125,
+          "worldY": 1332081.88,
+          "rotation": 127.50415
+        }
+      ],
+      "PathId": 7,
+      "isLooping": false,
+      "PathName": "GhostShip",
+      "AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+      "AutoSpawnEveryUTCInterval": 1440,
+      "autoSpawn": true
+    }
+  ],
+  "lastImageOverride": "0001-01-01T00:00:00",
+  "serverTemplates": []
+}
