@@ -1,1 +1,1 @@
-start cmd /k Call C:\atlasserver\server\AtlasTools\RedisDatabase\redis-server_start.bat
+start cmd /k Call C:\atlas-dedicated-server\server\AtlasTools\RedisDatabase\redis-server_start.bat
