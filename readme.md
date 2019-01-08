@@ -36,7 +36,7 @@ This was tested on Windows Server DataCenter 2016
 
 In my quickstart I have a prebuilt 1x1 for testing purposes I got off the internet. Will build my own soon but was determined to get this up and running :)
 
-Copy the contents of `tools\server-grid-export\*` to `server\ShooterGame\`
+Copy the contents of `tools\server-grid-files\*` to `server\ShooterGame\`
 Replace the following inside `server\ShooterGame\ServerGrid.json`:
 
 * `WorldAtlasId` : Generate a random number string with same amount of characters
