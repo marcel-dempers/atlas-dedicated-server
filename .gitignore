@@ -8,3 +8,6 @@ tools/ServerGridEditor-master/*
 
 tools/steamcmd/*
 !tools/steamcmd/steamcmd.exe
+
+#actual file with password and IP
+tools/server-grid-files/ServerGrid-sensitive.json
